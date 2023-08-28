@@ -76,3 +76,11 @@ button {
 .wrapper span {
   font-weight: 600;
 }
+
+.success {
+  color: #44b267;
+}
+
+.fail {
+  color: #e81c4e;
+}
